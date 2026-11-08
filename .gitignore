@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Postman (archivos locales del workspace) ###
+.postman/
+postman/*
+!postman/ProductosAPI.postman_collection.json
+
